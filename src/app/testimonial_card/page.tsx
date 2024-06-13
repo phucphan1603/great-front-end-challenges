@@ -3,7 +3,7 @@ import React from "react";
 
 export default function TestimonialCard() {
   return (
-    <div className="h-screen w-screen overflow-hidden bg-gradient-to-tr from-[#F9FAFB] to-[#D2D6DB] md:p-8 p-4">
+    <div className="h-screen w-screen overflow-hidden bg-gradient-to-tr from-[#F9FAFB] to-[#D2D6DB] md:px-8 px-4">
       <div className="mt-[200px] w-[340px] mx-auto p-6 bg-white rounded-lg shadow-md">
         <div className="flex gap-4">
           <div className="flex-shrink-0">
