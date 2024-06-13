@@ -10,7 +10,7 @@ export default function TestimonialCard() {
             <Image
               width={48}
               height={48}
-              src="https://picsum.photos/300/300"
+              src="/profile-thumbnail.png"
               alt="Avatar"
               className="rounded-full"
             />
